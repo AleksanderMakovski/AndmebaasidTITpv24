@@ -11,4 +11,3 @@ andmebaasiga seotud SQL kood konspektid
 
 ## Põhimõisted
 - andmebaas - struktureeritud andmete kogum
-
